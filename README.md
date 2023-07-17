@@ -11,7 +11,7 @@ Included in the GUI are instructions for use and are repeated as follows:
     7. Results are presented in the form "Parameter Name: Parameter Value ± Error Value"
     8. Results are cleared and replaced anytime the "Get Results" button is pressed but can be manually cleared using the "Clear Results" button
     9. Inputs are locked for editing once the "Next" buttons are pressed and "Back" buttons must be pressed to edit earlier inputs/selections
-    10. Enjoy!
+    10. Enjoy! 
 
 To create a .EXE version of the GUI, navigate to the folder containing the file PyCO2Sys_App.py and paste the following in Command Prompt:
     python -m PyInstaller --onefile PyCO2Sys_app.py
